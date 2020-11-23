@@ -1,6 +1,5 @@
 from tkinter import *
 import tkinter as tk
-from PIL import ImageTk,Image
 from tkinter import ttk
 
 # the main function from where the sticky_notes are made
